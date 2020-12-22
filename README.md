@@ -4,10 +4,10 @@
 
 
 ### ICA - Inteligência Computacional Aplicada
-### Professor - JOSE ALMEIDA DO NASCIMENTO
+#### Professor - JOSE ALMEIDA DO NASCIMENTO
 ##### Projeto : Perceptron
 #### ->>  Alexei Alves de Souza
 
 #### Neste trabalho é desenvolvido um perceptron para um processo de análise de classes de pureza de óleos derivados do petróleo.
--> ICA_Projeto_Perceptron.ipynb : Notebook com a resolução das questões
--> ICA_Descricao_Perceptron.ipynb  Nootebook com a descrição detalhada do perceptron
+####-> ICA_Projeto_Perceptron.ipynb : Notebook com a resolução das questões
+####-> ICA_Descricao_Perceptron.ipynb  Nootebook com a descrição detalhada do perceptron
